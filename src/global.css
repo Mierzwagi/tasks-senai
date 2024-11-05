@@ -1,0 +1,19 @@
+*{
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+
+    body{
+        -webkit-font-smoothing: antialiased;
+        font-family: 'segoe UI', sans-serif;
+    }
+
+    input, textarea, button, a{
+        font-weight: 400;
+        font-size: 1rem;
+        border: 0;
+        border-radius: 2px;
+        text-decoration: none;
+    }
+

@@ -1,0 +1,36 @@
+.containerCard {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 1rem;
+
+    margin: 1rem;
+    padding: 1em;
+    border: solid 1px black;
+    border-radius: 2px;
+}   
+
+.containerCard strong {
+    display: flex;
+    gap: 0.5rem;
+} 
+
+.containerCard p{
+    font-weight: 400;
+}
+
+.containerCard button {
+    margin: 1rem;
+    padding: 0.4rem 1rem 0.4rem 1rem;
+    background-color: orange;
+} 
+
+.containerCard button:last-child{
+    background-color: red;
+} 
+
+.containerRadio{
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+}

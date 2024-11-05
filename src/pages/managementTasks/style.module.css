@@ -1,0 +1,21 @@
+.containerTasks{
+    width: 100%;
+    margin-top: 1rem;
+    padding: 1rem;
+    
+}
+
+.containerAticles{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+}
+
+.containerAticles article{
+    width: 40%;
+}
+
+.input{
+    width: none;
+}
